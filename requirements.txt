@@ -1,0 +1,15 @@
+# Core
+pandas
+numpy
+
+# ML & embeddings
+scikit-learn
+sentence-transformers
+
+# Web framework (later for API/UI if needed)
+fastapi
+uvicorn
+
+# Optional but useful
+tqdm   # progress bars
+python-dotenv  # manage config/env variables
