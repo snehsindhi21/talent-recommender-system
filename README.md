@@ -7,7 +7,7 @@ Built with **FastAPI**, **Pandas**, and **Sentence Transformers**.
 
 ## 📂 Project Structure
 ```
-data_slush
+talent-recommender-system
 ├─ app.py                # FastAPI entrypoint
 ├─ main.py               # Script runner (optional)
 ├─ data
