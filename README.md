@@ -39,8 +39,8 @@ data_slush
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/data_slush.git
-cd data_slush
+git clone https://github.com/snehsindhi21/talent-recommender-system.git
+cd talent-recommender-system
 ```
 
 ### 2️⃣ Create Virtual Environment & Install Dependencies
@@ -152,14 +152,6 @@ Each candidate is evaluated using multiple criteria:
 
 ---
 
-## 📈 Future Improvements
-- Add **frontend dashboard** (React/Next.js)
-- More advanced **NLP similarity models**
-- Fine-tuned **weights using ML/feedback**
-- Support for **multi-language job posts**
-
----
-
 ## 🛠️ Tech Stack
 - **Python 3.10+**
 - **FastAPI** + **Uvicorn**
@@ -173,3 +165,5 @@ Each candidate is evaluated using multiple criteria:
 ## 👨‍💻 Author
 Built with ❤️ for talent-job matching.  
 Feel free to fork, improve, and contribute 🚀
+
+Sneh Sindhi | snehsindhi2004@gmail.com
