@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run FastAPI Server
 ```bash
-uvicorn app:app --reload
+python3 main.py
 ```
 
 Server runs at:  
